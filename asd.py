@@ -1,4 +1,4 @@
-a=16
+a=8
 b=2
 print(a+b)
 print("welcome")
